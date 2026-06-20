@@ -41,4 +41,14 @@ Operational Excellence: Azure Monitor alerts configured to notify of VM failures
 ## Architecture Diagram
 See Project-2-Architecture-Diagram.png in this folder
 ## Status
-Design Complete - Build In Progress
+Infrastructure Build Complete - VMs Pending Quota Approval
+Build Progress
+
+Resource Group: RG-Project-02 — Complete
+Virtual Network: VNet-Project-02 — Complete
+Subnet-Public and Subnet-Private — Complete
+NSG-Public with HTTP and HTTPS rules — Complete
+NSG-Private with Load Balancer only rule — Complete
+Load Balancer: LB-Project-02 with health probe — Complete
+Backend Pool: Backend-Pool-01 — Complete
+Virtual Machines — Pending VM quota approval
