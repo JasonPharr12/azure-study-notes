@@ -49,7 +49,8 @@ NSG-Public with HTTP and HTTPS rules — Complete
 NSG-Private with Load Balancer only rule — Complete
 Load Balancer: LB-Project-02 with health probe — Complete
 Backend Pool: Backend-Pool-01 — Complete
-Virtual Machines — Pending VM quota approval
+Virtual Machines — VM-1 and VM-2 deployed in RG-Project-02--Complete
 
 ## Status
-Infrastructure Build Complete - VMs Pending Quota Approval
+COMPLETE
+
