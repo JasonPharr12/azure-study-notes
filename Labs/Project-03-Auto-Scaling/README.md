@@ -51,4 +51,17 @@ Operational Excellence: All scaling events logged in Azure Monitor. Alerts notif
 See Project-3-Architecture-Diagram.png in this folder
 ## Status
 
-Design Complete - Build Pending VM Quota Approval
+COMPLETE
+**Build Progress**
+
+Resource Group: RG-Project-03 — Complete
+Virtual Network: VNet-Project-03 — Complete
+Subnet-Public and Subnet-Private — Complete
+NSG-ScaleSet with Load Balancer only rule — Complete
+Public IP: PIP-Project-03 — Complete
+Load Balancer: LB-Project-03 with health probe — Complete
+Backend Pool: Backend-Pool-03 — Complete
+Virtual Machine Scale Set: VMSS-Project-03 — Complete
+Autoscale Rules: Scale out at 75% CPU, Scale in at 25% CPU — Complete
+Azure Monitor Alert: CPU high alert configured — Complete
+Instances deallocated to protect credits
