@@ -59,6 +59,7 @@ Operational Excellence: Every deployment executed from version controlled Bicep 
 See Project-4-IaC-Architecture.png in this folder
 ## Status
 Design Complete - COMPLETE
+
 **Build Progress**
 
 Development environment configured — Azure CLI, VS Code, Bicep CLI
