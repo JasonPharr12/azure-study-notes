@@ -36,6 +36,19 @@ resource nsgPublic 'Microsoft.Network/networkSecurityGroups@2023-04-01' = {
           destinationPortRange: '443'
         }
       }
+      {
+        name: 'Deny-SSH-Inbound'
+        properties: {
+          priority: 200
+          protocol: 'Tcp'
+          access: 'Deny'
+          direction: 'Inbound'
+          sourceAddressPrefix: '*'
+          sourcePortRange: '*'
+          destinationAddressPrefix: '*'
+          destinationPortRange: '22'
+        }
+      }
     ]
   }
 }
